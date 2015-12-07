@@ -16,7 +16,7 @@ IT 职业技能图谱是由极客学院（www.jikexueyuan.com）发起，希望�
 对于这**两个问题**，我们做了相对改进，力求让大家的学习更有效：
 
 - 给知识点打标签，确定**学习难易度**、**达到程度**两个衡量标准
-- 众筹模式，专家审核。网友可以通过 [Github](https://github.com) 协作模式提交 issus，由各职业方向负责人审核，保证及时更新。
+- 众筹模式，专家审核。网友可以通过 [Github](https://github.com) 协作模式提交 [issus](https://github.com/jikexueyuanwiki/skillmap/issues)，由各职业方向负责人审核，保证及时更新。
 
 ## 一起来参与
 
@@ -35,7 +35,7 @@ IT 职业技能图谱是由极客学院（www.jikexueyuan.com）发起，希望�
 
 ## 参与步骤
 
-- fork主仓库（https://github.com/jikexueyuanwiki/tensorflow-zh）
+- fork主仓库（https://github.com/jikexueyuanwiki/skillmap）
 - 按照**职业方向**认领，在上面这个README.md里找还没有被人申请的职业方向，写上（@你的github号），给主仓库的master分支提pull request；
 - 提的 pull request 被确认，合并到主仓库后，代表你申请的职业方向被认领通过；
 - 各职业内容完成后，我们会生成PDF/ePub文档，放在极客学院 Wiki 平台发布，并为**所有参与者署名**！
