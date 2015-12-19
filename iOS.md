@@ -1,0 +1,156 @@
+# iOS 开发工程师职业图谱
+
+## 说明
+
+- 难度等级：R1-R5, 对应关系：零基础(R1)、简单(R2)、一般(R3)、困难(R4)、非常困难(R5)
+- 达到程度：P1-P5, 对应关系：了解(P1)、熟悉(P2)、掌握(P3)、精通(P4)、专家(P5)
+
+## 职业图谱
+
+- 通用基础
+  - 理论基础 (R3,P3)
+     - 数据结构(R3,P3)
+     - 算法(R4,P4)
+  - 编程语言 (R3,P1)
+     - Objective-C(R3,P1)
+     - Swift(R3,P3)
+- Objective-C基础
+  - Objective-C基本语法(R1,P1)
+     - 变量(R1,P1）
+     - 常量(R1,P1)
+     - 数据类型
+     - 运算符和表达式
+     - 判断
+     - 循环(R1,P1)
+     - Objective-C编码规范
+  - Objective-C语法进阶(R2,P1)
+     - 类和对象
+     - 属性和变量
+     - 继承(R2,P1)
+     - 多态(R2,P1)
+     - 动态绑定
+     - block块
+     - 异常处理
+     - Category类别
+     - Extension扩展
+     - Protocol协议 
+ - Objective-C高级语法(R3)
+     - KVC
+     - KVO
+     - Notification
+     - 引用计数与ARC
+     - 内存管理
+     - 多线程
+  - Objective-C Foundation框架(R3,P1)
+     - NSNumber
+     - NSString
+     - NSArray
+     - NSDictionary
+     - NSSet
+ - Swift基础
+   - Swift基本语法(R1,P1)
+     - 变量(R1,P1）
+     - 常量(R1,P1)
+     - 数据类型(R1,P1)
+     - 判断(R1,P1)
+     - 循环(R1,P1)
+     - Swift编码规范
+   - Swift语法进阶(R2,P1)
+     - Swift字符串
+     - 数组
+     - 字典
+     - 元组
+     - 函数
+     - 可选型optionals
+     - 枚举
+     - 闭包 
+   - Swift高级语法
+     - Swift和Objective-C混合编程
+     - Swift源码
+- iOS开发基础(R2,P1)
+  - iOS基础(R2,P1)
+     - iOS生命周期(R1,P1)
+     - 事件与消息
+     - 模拟器
+     - 真机调试
+  - UI控件(R2,P1)
+     - Button(R2,P1)
+     - Label
+     - ImageView
+     - ScrollView
+     - TableView
+     - CollectionView
+     - 自定义控件
+  - 界面布局(R2,P1)
+     - 代码布局
+     - nib/xib文件
+     - storyboard
+- iOS开发进阶(R3,P2)
+  - 动画效果(R3,P2)
+     - UIView动画
+     - Core Animation
+     - 第三方动画库pop
+  - 多线程
+     - NSThread
+     - NSOperationQueue
+     - GCD   
+  - 数据存储
+     - NSUserDefault
+     - SQLite
+     - CoreData   
+  - 数据处理
+     - Model
+     - XML解析
+     - JSON解析    
+  - 物理特性(R3,P2)
+     - 各类传感器
+     - 摄像头
+     - 指纹识别
+     - Force Touch
+  - 网络与通信(R4,P3)
+     - Http(R4,P3)
+     - Socket(R5,P4)
+     - SOAP
+  - 屏幕适配
+     - 代码适配
+     - Autoresizing
+     - AutoLayout
+     - Size Classes    
+  - 其他 (R3,P2)
+     - 多点触控(R3,P1)
+     - 手势识别
+     - 传感器(R4,P2)
+     - 定位
+     - 电源管理(R4,P2)
+     - 消息推送  
+- iOS高级开发
+  - iOS架构
+    - MVC
+    - MVVM 
+    - 设计模式
+  - 第三方框架
+    - AFNetworking
+    - SDWebImage
+    - MBProgressHUD
+    - Masonry     
+  - 第三方SDK
+    - 分享
+    - 第三方登录
+    - 短信验证码    
+    - 其他各类API
+- 开发效率
+  - IDE(R1,P1)
+     - Xcode
+  - 插件
+     - Alcatraz     
+  - 包管理
+     - Cocoapods   
+  - 版本控制(R3,P1)
+     - Git(R3,P1)
+     - SVN(R3,P1)
+  - 应用内侧与分发
+     - Pre.im
+     - 蒲公英
+  - 后台服务
+     - [Bmob](http://www.bmob.cn/)
+     - [Parse](http://www.parse.com/)      
