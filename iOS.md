@@ -47,7 +47,7 @@
      - NSArray(R3,P4)
      - NSDictionary(R3,P4)
      - NSSet(R3,P2)
- - Swift基础(R2,P2)
+- Swift基础(R2,P2)
    - Swift基本语法(R2,P2)
      - 变量(R2,P2)
      - 常量(R2,P2)
