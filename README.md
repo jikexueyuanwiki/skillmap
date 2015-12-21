@@ -30,7 +30,7 @@ IT 职业技能图谱是由极客学院Wiki([国内专业的IT图文课程库](h
 - PHP 开发工程师
 - 大数据工程师
 - Java 开发工程师
-- iOS 开发工程师
+- [iOS 开发工程师](iOS.md)  （author：[@chenyufeng](https://github.com/chenyufeng1991)）
 - 前端开发工程师
 - 产品经理
 
