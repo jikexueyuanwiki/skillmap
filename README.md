@@ -53,6 +53,6 @@ IT 职业技能图谱是由极客学院Wiki([国内专业的IT图文课程库](h
 ## 项目进度
 
 - 2015年12月7日，正式起草。
-
+- 2015年12月19日，iOS 技能图谱 V1.0版由[@chenyufeng](https://github.com/chenyufeng1991) 完成
 ## 鸣谢
 
