@@ -1,0 +1,152 @@
+# iOS 开发工程师职业图谱
+
+## 职业图谱
+
+- 通用基础
+  - 理论基础
+     - 数据结构
+     - 算法
+  - 编程语言
+     - Objective-C
+     - Swift
+- Objective-C基础
+  - Objective-C基本语法
+     - 变量
+     - 常量
+     - 数据类型
+     - 运算符和表达式
+     - 判断
+     - 循环
+     - Objective-C编码规范
+  - Objective-C语法进阶
+     - 类和对象
+     - 属性和变量
+     - 继承
+     - 多态
+     - 动态绑定
+     - block块
+     - 异常处理
+     - Category类别
+     - Extension扩展
+     - Protocol协议
+  - Objective-C高级语法
+     - KVC
+     - KVO
+     - Notification
+     - 引用计数与ARC
+     - 内存管理
+     - 多线程
+  - Objective-C Foundation框架
+     - NSNumber
+     - NSString
+     - NSArray
+     - NSDictionary
+     - NSSet
+- Swift基础
+   - Swift基本语法
+     - 变量
+     - 常量
+     - 数据类型
+     - 判断
+     - 循环
+     - Swift编码规范
+   - Swift语法进阶
+     - Swift字符串
+     - 数组
+     - 字典
+     - 元组
+     - 函数
+     - 可选型optionals
+     - 枚举
+     - 闭包
+   - Swift高级语法
+     - Swift和Objective-C混合编程
+     - Swift源码
+- iOS开发基础
+  - iOS基础
+     - iOS生命周期
+     - 事件与消息
+     - 模拟器
+     - 真机调试
+  - UI控件
+     - Button
+     - Label
+     - ImageView
+     - ScrollView
+     - TableView
+     - CollectionView
+     - 自定义控件
+  - 界面布局
+     - 代码布局
+     - nib/xib文件
+     - storyboard
+- iOS开发进阶
+  - 动画效果
+     - UIView动画
+     - Core Animation
+     - 第三方动画库pop
+  - 多线程
+     - NSThread
+     - NSOperationQueue
+     - GCD       
+  - 数据存储     
+     - NSUserDefault     
+     - SQLite     
+     - CoreData     
+  - 数据处理     
+     - Model    
+     - XML解析     
+     - JSON解析     
+  - 物理特性     
+     - 各类传感器     
+     - 摄像头     
+     - 指纹识别     
+     - Force Touch     
+  - 网络与通信     
+     - Http     
+     - Socket     
+     - SOAP     
+     - 抓包    
+  - 屏幕适配     
+     - 代码适配     
+     - Autoresizing     
+     - AutoLayout     
+     - Size Classes       
+  - 其他     
+     - 多点触控     
+     - 手势识别     
+     - 传感器     
+     - 定位     
+     - 电源管理     
+     - 消息推送      
+- iOS高级开发    
+  - iOS架构 R4，  
+    - MVC     
+    - MVVM    
+    - 设计模式 R5   
+  - 第三方框架     
+    - AFNetworking     
+    - SDWebImage     
+    - MBProgressHUD     
+    - Masonry         
+  - 第三方SDK     
+    - 分享     
+    - 第三方登录    
+    - 短信验证码        
+    - 其他各类API     
+- 开发效率     
+  - IDE     
+     - Xcode     
+  - 插件     
+     - Alcatraz         
+  - 包管理     
+     - Cocoapods   
+  - 版本控制     
+     - Git     
+     - SVN     
+  - 应用内测与分发     
+     - Pre.im     
+     - 蒲公英     
+  - 后台服务     
+     - [Bmob] http://www.bmob.cn/      
+     - [Parse] http://www.parse.com/          
