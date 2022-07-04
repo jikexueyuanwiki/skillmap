@@ -4,8 +4,14 @@
 
 - 难度等级：R1-R5, 对应关系：零基础(R1)、简单(R2)、一般(R3)、困难(R4)、非常困难(R5)
 - 达到程度：P1-P5, 对应关系：了解(P1)、熟悉(P2)、掌握(P3)、精通(P4)、专家(P5)
+- 
 
 ## 职业图谱
+
+* ![图片](https://user-images.githubusercontent.com/79394963/177197078-a73ab222-27aa-4b06-8dc7-d27cb6fb45e2.png)
+* ![图片](https://user-images.githubusercontent.com/79394963/177197137-0be318f6-1a7f-4da9-ba63-20c2339095b6.png)
+* ![图片](https://user-images.githubusercontent.com/79394963/177197148-61537991-8d95-4adc-af83-972783431b6d.png)
+
 
 
 - 通用基础
